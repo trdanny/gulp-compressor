@@ -1,4 +1,8 @@
 node_modules
 package-lock.json
-src/img/*
-build/img/*
+build/img/*.jpg
+build/img/*.png
+build/img/*.JPEG
+src/img/*.jpg
+src/img/*.png
+src/img/*.JPEG

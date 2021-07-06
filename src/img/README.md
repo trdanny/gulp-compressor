@@ -1,0 +1,1 @@
+## This is the source directory of the images to be optimised
